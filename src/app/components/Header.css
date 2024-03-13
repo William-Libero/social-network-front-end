@@ -1,0 +1,12 @@
+.header {
+  width: 100%;
+  border-radius: 0px 0px 10px 10px;
+  box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.2);
+  height: 100%;
+  padding: 0px 25px;
+}
+.header header {
+  width: 100%;
+  max-width: 100%;
+  padding: 0;
+}
