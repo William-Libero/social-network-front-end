@@ -34,6 +34,7 @@ export default function PostsFeed() {
       data.forEach((post: string) => {
         post != "" && array.push(JSON.parse(post));
       });
+      array = array.sort((a, b) => a.id - b.id);
 
       setPosts(array);
     } catch (error) {
