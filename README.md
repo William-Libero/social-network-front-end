@@ -1,7 +1,7 @@
 # Next.js Frontend - Social Network Project
 
 <p align="center">
-  <a href="https://nextjs.org/" target="blank"><img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" width="200" alt="Nest Logo" /></a>
+  <a href="https://nextjs.org/" target="blank"><img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" width="300" alt="Nest Logo" /></a>
 </p>
 
 [![NextJS](https://img.shields.io/badge/Next.js-14.1.3-black.svg)](https://nextjs.org/)
