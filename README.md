@@ -8,7 +8,7 @@
 
 This project is a web application built with Next.js that allows users to view and create posts. Post creation is facilitated through a Golang REST API (<a href="https://github.com/William-Libero/social-networking-posts-and-rabbitmq" target="blank">Project Link</a>), which communicates with another API developed in NestJS (<a href="https://github.com/William-Libero/social-networking-posts-service" target="blank">Project Link</a>) via RabbitMQ.</br>
 The posts are ultimately stored in a Supabase database.</br>
-Deployed in Vercel.
+Deployed in Vercel <a href="https://social-network-front-end.vercel.app/">Link</a>.
 
 ## Features
 
