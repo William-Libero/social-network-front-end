@@ -6,4 +6,6 @@ export default function NestApi() {
   window.location.replace(
     "https://github.com/William-Libero/social-networking-posts-service"
   );
+
+  return <div></div>;
 }

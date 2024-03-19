@@ -6,4 +6,6 @@ export default function GoApi() {
   window.location.replace(
     "https://github.com/William-Libero/social-networking-posts-and-rabbitmq"
   );
+
+  return <div></div>;
 }
